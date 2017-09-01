@@ -349,6 +349,11 @@
 			<key>orderHint</key>
 			<integer>54</integer>
 		</dict>
+		<key>SingletonCheckRule.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>81</integer>
+		</dict>
 		<key>SwitchStatementsShouldHaveDefaultRule.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -483,6 +488,11 @@
 			<true/>
 		</dict>
 		<key>400FD0A1994043799987E351</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>47591BA1FA894FCDABF03711</key>
 		<dict>
 			<key>primary</key>
 			<true/>

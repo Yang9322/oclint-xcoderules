@@ -401,6 +401,9 @@ ReturnFromFinallyBlockRule_LIB_DEPENDS:STATIC=general;OCLintAbstractRule;general
 ShortVariableNameRule_LIB_DEPENDS:STATIC=general;OCLintAbstractRule;general;clangASTMatchers;general;OCLintMetric;general;OCLintHelper;general;OCLintUtil;general;OCLintCore;
 
 //Dependencies for the target
+SingletonCheckRule_LIB_DEPENDS:STATIC=general;OCLintAbstractRule;general;clangASTMatchers;general;OCLintMetric;general;OCLintHelper;general;OCLintUtil;general;OCLintCore;
+
+//Dependencies for the target
 SwitchStatementsShouldHaveDefaultRule_LIB_DEPENDS:STATIC=general;OCLintAbstractRule;general;clangASTMatchers;general;OCLintMetric;general;OCLintHelper;general;OCLintUtil;general;OCLintCore;
 
 //Dependencies for the target
@@ -693,6 +696,8 @@ RedundantNilCheckRule_GUID_CMAKE:INTERNAL=3323B2CA2A3544778C1AF191
 ReturnFromFinallyBlockRule_GUID_CMAKE:INTERNAL=4F4201391E9740B28ACFD797
 //Stored Xcode object GUID
 ShortVariableNameRule_GUID_CMAKE:INTERNAL=2CAB26DA314D45DE9ED8B3D4
+//Stored Xcode object GUID
+SingletonCheckRule_GUID_CMAKE:INTERNAL=47591BA1FA894FCDABF03711
 //Stored Xcode object GUID
 SwitchStatementsShouldHaveDefaultRule_GUID_CMAKE:INTERNAL=12178C0907A04FAFB40354F2
 //Stored Xcode object GUID

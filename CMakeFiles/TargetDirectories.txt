@@ -72,8 +72,9 @@
 /Users/heyang/Downloads/oclint-master/oclint-xcoderules/rules/size/CMakeFiles/CyclomaticComplexityRule.dir
 /Users/heyang/Downloads/oclint-master/oclint-xcoderules/rules/unused/CMakeFiles/UnusedMethodParameterRule.dir
 /Users/heyang/Downloads/oclint-master/oclint-xcoderules/rules/unused/CMakeFiles/UnusedLocalVariableRule.dir
+/Users/heyang/Downloads/oclint-master/oclint-xcoderules/rules/custom/CMakeFiles/SingletonCheckRule.dir
+/Users/heyang/Downloads/oclint-master/oclint-xcoderules/rules/custom/CMakeFiles/DeallocPositonRule.dir
 /Users/heyang/Downloads/oclint-master/oclint-xcoderules/rules/custom/CMakeFiles/IfElsePositonRule.dir
 /Users/heyang/Downloads/oclint-master/oclint-xcoderules/rules/custom/CMakeFiles/KSPageloadRule.dir
 /Users/heyang/Downloads/oclint-master/oclint-xcoderules/rules/custom/CMakeFiles/IfMustHavaBracesRule.dir
-/Users/heyang/Downloads/oclint-master/oclint-xcoderules/rules/custom/CMakeFiles/DeallocPositonRule.dir
 /Users/heyang/Downloads/oclint-master/oclint-xcoderules/rules/custom/CMakeFiles/ClassNamePrefixRule.dir
